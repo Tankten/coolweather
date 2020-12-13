@@ -24,7 +24,7 @@
         android:layout_marginLeft="10dp"
         android:layout_centerVertical="true"
         android:layout_alignParentLeft="true"
-        android:background="@drawable/ic_launcher_background"/>
+        android:background="@drawable/ic_backup"/>
     </RelativeLayout>
     <ListView
         android:id="@+id/list_view"
